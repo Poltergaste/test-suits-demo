@@ -1,0 +1,8 @@
+#surefire_0
+#Thu Jul 02 14:00:24 EEST 2015
+user.dir=/Users/ayia/projects/itlabs/tasj/test-suite-demo-gc1
+webdriver.chrome.driver=/Applications/chromedriver
+driver.browser=chrome
+localRepository=/Users/ayia/.m2/repository
+driver.timeout=4000
+basedir=/Users/ayia/projects/itlabs/tasj/test-suite-demo-gc1
